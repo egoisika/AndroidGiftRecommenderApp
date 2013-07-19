@@ -1,0 +1,2 @@
+A simple android application to show the integration of:
+Facbook, amazon, google payments and paypal api. It is just a gift recommender for the birthdays of friends based on their like and wishlisted gifts and the budget of the buyer which is decided by the price range of their recent purchases type of thing. Just for experimental purposes. 
